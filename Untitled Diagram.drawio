@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T11:39:28.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.61" etag="oQsTYVMjK2SclVk89XGb" version="15.9.6" type="github"><diagram id="TbyJkJQcpYIO0hfAJC0a" name="Page-1">5Zhfd5MwGMY/DZeeU0hL6+Vau+nR7aj1nG1XngxeIZomLAQo+/QmI5SysIrOlU6vmjz5+z75JWlw0GK9ORM4ic95CNTxRuHGQW8cz3PRzFU/WikrZTodV0IkSGgqNcKK3IERR0bNSAhpq6LknEqStMWAMwaBbGlYCF60q33jtD1qgiOwhFWAqa1eklDGlTrzpo3+FkgU1yO7/uuqZI3ryiaSNMYhL3YktHTQQnAuq9R6swCqzat9qdqdPlK6nZgAJvs0GF1EpLhO2eVd+fn201e3XC7PX6GqlxzTzARsJivL2gEIlSEmy4WMecQZpstGnQuesRD0MCOVa+p84DxRoqvE7yBlaVYXZ5IrKZZrakrtUEx0Kc9EAHvmXyOBRQRyTz0Tlo5lZwBj1BnwNUhRqgoCKJYkby8+NgxF23qNzSphnP4N113L9YsMcq6kj4KXCmOdzCSh5A6zUGdOKWwIs9eGUrUR9BoUMZGwSvC9W4Xaiz0dzkFI2Oz1xJTODMdmI7s110WzLdyR0eKdLVG3++suTl44u15PdsdHxe70P3HdPyrXPcv1BWaShDjUdyvo5kxCJJSobkst6S7hNiMJH/TU8CbtY8PzD3hsFOIHTS/zLyfe1TtI0qv8hsw6rBwO4Ad0/RnRY5vozsAHBXhsuX7uLJBz4qY1wGMdPohU2ZhaK/L8oG7vMwMqmnWA6nWA6j8XqLZlLxxUvyeoaEhQfRtUYPxYKEX+sVFq+/VyKH38mOxB6eRAlO6b5I7r9QthtApEtn7qnW8R2eFl76N00vVUOCiks38NUtQT0umQkNofF7aQvsfsBj/5PfskSh8epcNTaj9o5wJyuL960kCQJCD6P9Mcsfo2+sWmP/xW97v+3h/UxK73qU/VqPM00cT5kU73NrYGtepCzWi3lwEMf0jtcxquss3nyfuynY+8aPkT</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-17T18:31:16.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36 OPR/81.0.4196.61" etag="KJQw3J4Pg7DGhilv38Gx" version="15.9.6" type="github">
+  <diagram id="TbyJkJQcpYIO0hfAJC0a" name="Page-1">
+    <mxGraphModel dx="1381" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0NgiwYsnWzyRqQ_1yEEM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;" parent="1" source="yu11D86fvyafeuJc5jv2-6" target="0NgiwYsnWzyRqQ_1yEEM-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yu11D86fvyafeuJc5jv2-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0NgiwYsnWzyRqQ_1yEEM-1" target="yu11D86fvyafeuJc5jv2-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgiwYsnWzyRqQ_1yEEM-1" value="Nuevo Proyecto utilizando Flexin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="60" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgiwYsnWzyRqQ_1yEEM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0NgiwYsnWzyRqQ_1yEEM-2" target="0NgiwYsnWzyRqQ_1yEEM-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgiwYsnWzyRqQ_1yEEM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0NgiwYsnWzyRqQ_1yEEM-2" target="0NgiwYsnWzyRqQ_1yEEM-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgiwYsnWzyRqQ_1yEEM-2" value="Cantidad de integrantes del equipo" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="190" y="400" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0NgiwYsnWzyRqQ_1yEEM-4" target="wrklsWvTA2XIepsXvbi8-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgiwYsnWzyRqQ_1yEEM-4" value="Más de 4 personas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0NgiwYsnWzyRqQ_1yEEM-6" target="wrklsWvTA2XIepsXvbi8-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0NgiwYsnWzyRqQ_1yEEM-6" value="Menos de 4 personas" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wrklsWvTA2XIepsXvbi8-1" target="wrklsWvTA2XIepsXvbi8-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-1" value="Flexin Scrum" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wrklsWvTA2XIepsXvbi8-3" target="wrklsWvTA2XIepsXvbi8-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-3" value="Flexin Kanban" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-5" value="Breve descripción de Flexin Scrum" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wrklsWvTA2XIepsXvbi8-7" value="&lt;span&gt;Breve descripción de Flexin Kanban&lt;/span&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="300" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yu11D86fvyafeuJc5jv2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yu11D86fvyafeuJc5jv2-1" target="yu11D86fvyafeuJc5jv2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yu11D86fvyafeuJc5jv2-1" value="Reunión con el Cliente" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yu11D86fvyafeuJc5jv2-6" value="Líder Técnico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="290" width="100" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
